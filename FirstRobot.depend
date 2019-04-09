@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1554815791 source:e:\c++\firstrobot\main.cpp
+	<iostream>
+	"robot.h"
+	"apstring.h"
+
+1554815818 e:\c++\firstrobot\robot.h
+	"apstring.h"
+
+1553779578 e:\c++\firstrobot\apstring.h
+	<iostream>
+
+1554815959 source:e:\c++\firstrobot\robot.cpp
+	<iostream>
+	"robot.h"
+	"apstring.cpp"
+
+1553779578 e:\c++\firstrobot\apstring.cpp
+	<string.h>
+	<assert.h>
+	"apstring.h"
+
+1554820837 source:p:\firstrobot\robot.cpp
+	<iostream>
+	"robot.h"
+	<string>
+	"apstring.cpp"
+
+1554820832 p:\firstrobot\robot.h
+	<string>
+
+1554819071 p:\firstrobot\apstring.h
+	<iostream>
+
+1554819071 p:\firstrobot\apstring.cpp
+	<string.h>
+	<assert.h>
+	"apstring.h"
+
+1554820824 source:p:\firstrobot\main.cpp
+	<iostream>
+	"robot.h"
+	"apstring.h"
+
